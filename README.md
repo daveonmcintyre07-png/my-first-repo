@@ -6,6 +6,6 @@ A simple project to practise contributing to GitHub.
 
 Clone the repo and explore the files.
 
-## Contibuting
+## Contributing
 
 Contributions are welcome! Feel free to open a pull request.
